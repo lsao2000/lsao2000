@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://ww25.rishavchanda.io/?subid1=20231025-1257-267e-9515-1a0943bbf666)
+
 <h1 align="center">Hi 👋, I'm lahcen</h1>
 <h3 align="center">A passionate mobile developer from morroco</h3>
 
