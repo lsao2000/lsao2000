@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lsao2000" alt="lsao2000" /></a> </p>
  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **android, javaScript, php, python, java, Mysql**
 
