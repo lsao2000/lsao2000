@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm lahcen</h1>
 <h3 align="center">A passionate java developer from morroco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lsao2000&label=Profile%20views&color=0e75b6&style=flat" alt="lsao2000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lsao2000" alt="lsao2000" /></a> </p>
  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 
@@ -12,7 +9,7 @@
 
 - 📫 How to reach me **lahcenenligne@gmail.com**
 
-- ⚡ Fun fact **I'm weird in the social life**
+- ⚡ Fun fact : *Btw i use vim*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
