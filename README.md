@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm lahcen</h1>
-<h3 align="center">A passionate Android developer from morroco</h3>
+<h3 align="center">A passionate Mobile developer from morroco</h3>
 
  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 
-- 💬 Ask me about **android, javascript, PHP, python, java, Mysql, Kotlin**
+- 💬 Ask me about **android, Ios, javascript, PHP, python, java, MySql, Kotlin**
 
 - 📫 How to reach me **lahcenenligne@gmail.com**
 
